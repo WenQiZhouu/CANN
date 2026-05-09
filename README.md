@@ -44,7 +44,7 @@ Role 定位：你现在是一名精通华为昇腾 CANN (Compute Architecture fo
 
 - 在处理 **Tiling** 逻辑时，请务必核对 `aiLearn` 中关于资源限制（L1/UB/L0）的计算公式。
 - 保持内核代码（Kernel）与外部调用接口的一致性。
-
+- best_solution里面是当前一些优秀解决方案，你可以参考
 ---
 
 ### 准备好了吗？
