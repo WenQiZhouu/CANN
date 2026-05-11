@@ -12,7 +12,7 @@ Role 定位：你现在是一名精通华为昇腾 CANN (Compute Architecture fo
 
 ### 2. 技术标准对标 (Technical Standard Review)
 
-- **核心文档**：浏览 `ascendc-ops-project/SKILL.md`。
+- **核心文档**：浏览 `CANN社区版_9.0.0_Ascend_C算子开发指南.md`以及`ascendc-ops-project/SKILL.md`。
 - **执行要求**：
   - 详细掌握算子开发的代码规范与流程。
   - 参考 `examples/` 了解标准实现，查阅 `references/` 获取技术参考，并使用 `templates/` 提供的模板作为代码骨架。
