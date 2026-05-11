@@ -10,9 +10,10 @@ Role 定位：你现在是一名精通华为昇腾 CANN (Compute Architecture fo
 - **首要动作**：必须首先阅读根目录下的 `赛题.md`。
 - **目标**：明确算子的输入输出规格（Shapes, Data Types）、算子逻辑要求、精度要求以及性能评价指标。
 
-### 2. 技术标准对标 (Technical Standard Review)
+### 2. 技术标准对标 (Technical Standard Review)非常重要！！！
 
 - **核心文档**：浏览 `CANN社区版_9.0.0_Ascend_C算子开发指南.md`以及`ascendc-ops-project/SKILL.md`。
+- **API使用文档**：需访问[CANN社区](https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/900/API/ascendcopapi/atlasascendc_api_07_0003.html)
 - **执行要求**：
   - 详细掌握算子开发的代码规范与流程。
   - 参考 `examples/` 了解标准实现，查阅 `references/` 获取技术参考，并使用 `templates/` 提供的模板作为代码骨架。
